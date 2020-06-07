@@ -1,0 +1,5 @@
+tensorflow-gpu
+keras-gpu
+numpy
+matplotlib
+tqdm
