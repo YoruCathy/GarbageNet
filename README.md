@@ -9,6 +9,6 @@ To train and use the model, the file structure should be arranged as:
  |----./result/  
  |----./vis/  
  |----GarbageClassification.py  
- |----train.py
- |----infer.py
+ |----train.py  
+ |----infer.py  
  -----get_flops.py
